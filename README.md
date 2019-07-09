@@ -14,8 +14,8 @@ the algorithms involved are:
 - Prim
 - Kruskal
 - Dijkstra
-- SPFA
-- Floyd
+- Bellman-Ford
+- Floyd-Warshall
 - EK(Edmonds-Karp)
 - Dinic(with Bit-Scaling optimization)
 - SAP/ISAP(Shortest Augmenting Path)
