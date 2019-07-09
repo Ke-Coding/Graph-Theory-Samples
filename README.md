@@ -1,5 +1,9 @@
 # Graph Theory Templates
-some sample codes about classical graph theoretical problems:
+Some implementations of several classic graph theory algorithms, which can be used as templates.
+
+<br>
+
+the problems involved are:
 
 - minimum spanning tree
 - single source shortest path
