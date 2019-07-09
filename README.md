@@ -1,13 +1,15 @@
 # Graph Theory Templates
-some sample codes about classical graph theoretical problems, includes:
+some sample codes about classical graph theoretical problems:
 
+- minimum spanning tree
 - single source shortest path
 - multi source shortest path
-- minimum spanning tree
 - maximum flow
 - minimum/maximum cost flow
 
-the involved algorithms:
+<br>
+
+the algorithms involved are:
 
 - Prim
 - Kruskal
