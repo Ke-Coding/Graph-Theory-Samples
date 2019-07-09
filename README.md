@@ -23,4 +23,4 @@ the algorithms involved are:
 
 <br>
 
-(this repo will be continually updated.)
+(this repo will be continually updated)
